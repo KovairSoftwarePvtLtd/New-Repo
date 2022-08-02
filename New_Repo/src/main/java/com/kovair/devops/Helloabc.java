@@ -7,7 +7,7 @@ public class Helloabc {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("hiii");
+		System.out.println("Hi..Hello");
 		System.out.println("hello new yghgjg");
 		// TODO Auto-generated method stub
 //new171 modified new12khjjkhsg
